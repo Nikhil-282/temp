@@ -1,0 +1,5 @@
+first create a local file in git
+then change directorary to the local file
+then type git init
+after that create an file in the local file
+then save init
